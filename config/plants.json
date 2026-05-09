@@ -1,0 +1,26 @@
+{
+  "bowling_nut": {
+    "name": "Nuez Rodadora",
+    "cost": 50,
+    "cooldown": 500,
+    "damage": 50,
+    "health": 100,
+    "special": "rolls_across_lane"
+  },
+  "explosive_bowling_nut": {
+    "name": "Nuez Rodadora Roja",
+    "cost": 150,
+    "cooldown": 1000,
+    "damage": 200,
+    "health": 100,
+    "special": "explodes_on_impact"
+  },
+  "giant_bowling_nut": {
+    "name": "Nuez Rodadora Gigante",
+    "cost": 250,
+    "cooldown": 2000,
+    "damage": 500,
+    "health": 500,
+    "special": "heavy_knockback"
+  }
+}
